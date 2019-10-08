@@ -1,0 +1,39 @@
+{
+    "files": [
+        {
+            "FileName": "https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i",
+            "VersionNo": 0.15
+        },
+        {
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/main.js",
+            "VersionNo": 0.1
+        },
+        {
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/util.js",
+            "VersionNo": 2.6
+        },{
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/keyhandler.js",
+            "VersionNo": 2.6
+        },{
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/player.js",
+            "VersionNo": 2.6
+        },{
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/constants.js",
+            "VersionNo": 2.6
+        },{
+            "FileName": "https://startup-show.tv/tvpapp/lg/css/styles.css",
+            "VersionNo": 2.6
+        },
+        {
+            "FileName": "https://startup-show.tv/tvpapp/lg/css/responsive.css",
+            "VersionNo":0.2
+        }
+        
+    ],
+    "mainFiles":[
+        {
+            "FileName": "https://startup-show.tv/tvpapp/lg/js/jquery.js",
+            "VersionNo": 0.2
+        }
+    ]
+}
