@@ -6,17 +6,17 @@
         },
         {
             "FileName": "https://startup-show.tv/tvpapp/lg/js/main.js",
-            "VersionNo": 0.4
+            "VersionNo": 0.5
         },
         {
             "FileName": "https://startup-show.tv/tvpapp/lg/js/util.js",
-            "VersionNo": 2.7
+            "VersionNo": 2.8
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/keyHandler.js",
-            "VersionNo": 2.7
+            "VersionNo": 2.9
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/player.js",
-            "VersionNo": 3
+            "VersionNo": 3.1
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/constants.js",
             "VersionNo": 2.6
