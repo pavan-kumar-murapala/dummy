@@ -6,27 +6,27 @@
         },
         {
             "FileName": "https://startup-show.tv/tvpapp/lg/js/main.js",
-            "VersionNo": 0.6
+            "VersionNo": 0.7
         },
         {
             "FileName": "https://startup-show.tv/tvpapp/lg/js/util.js",
-            "VersionNo": 2.9
+            "VersionNo": 3.0
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/keyHandler.js",
-            "VersionNo": 3.2
+            "VersionNo": 4.0
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/player.js",
-            "VersionNo": 3.1
+            "VersionNo": 3.2
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/js/constants.js",
             "VersionNo": 2.6
         },{
             "FileName": "https://startup-show.tv/tvpapp/lg/css/styles.css",
-            "VersionNo": 2.7
+            "VersionNo": 2.8
         },
         {
             "FileName": "https://startup-show.tv/tvpapp/lg/css/responsive.css",
-            "VersionNo":0.3
+            "VersionNo":0.5
         }
         
     ],
